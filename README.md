@@ -3,7 +3,7 @@
 
 # READ THIS FIRST!!!
 # MAKE SURE YOU HAVE BUILD TOOLS/COMPILERS TO BUILD STUFF FROM SOURCES
-# yum groupinstall "Development Tools"
+ yum groupinstall "Development Tools"
 
 
 # CD TO TEMPORARY DIRECTORY
